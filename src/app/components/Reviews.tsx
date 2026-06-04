@@ -5,28 +5,28 @@ import { useState } from "react";
 const reviews = [
   {
     name: "Nguyễn Văn Anh",
-    location: "Hà Nội",
+    location: "Đại Nài, Hà Tĩnh",
     rating: 5,
     comment: "Dịch vụ tuyệt vời! Tài xế rất chuyên nghiệp và lái xe an toàn. Tôi đã sử dụng dịch vụ sau khi đi tiệc và rất hài lòng.",
     avatar: "👨‍💼",
   },
   {
     name: "Trần Thị Mai",
-    location: "TP Hồ Chí Minh",
+    location: "Hà Huy Tập, Hà Tĩnh",
     rating: 5,
     comment: "Nhanh chóng, tiện lợi. Chỉ mất vài phút là đã có tài xế đến. Giá cả rất hợp lý và minh bạch.",
     avatar: "👩‍💼",
   },
   {
     name: "Lê Hoàng Nam",
-    location: "Đà Nẵng",
+    location: "Hồng Lĩnh, Hà Tĩnh",
     rating: 5,
     comment: "Tôi thường xuyên sử dụng dịch vụ này khi đi nhậu. An toàn hơn rất nhiều so với tự lái xe. Highly recommended!",
     avatar: "👨",
   },
   {
     name: "Phạm Thu Hà",
-    location: "Hải Phòng",
+    location: "Can Lộc, Hà Tĩnh",
     rating: 5,
     comment: "Ứng dụng rất dễ sử dụng, tài xế lịch sự, xe sạch sẽ. Cảm ơn đội ngũ đã mang đến dịch vụ tốt như vậy!",
     avatar: "👩",
